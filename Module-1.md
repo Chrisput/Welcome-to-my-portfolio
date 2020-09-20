@@ -1,1 +1,3 @@
-This is a page for Module 1
+layout: page
+title: "Launching into Computer Science"
+permalink: https://chrisput.github.io/Welcome-to-my-portfolio/module-1
