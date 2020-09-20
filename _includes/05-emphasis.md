@@ -1,4 +1,4 @@
-# Skills
+## Skills
 
 Below is a _list_ of my **skills and competencies**:
 
